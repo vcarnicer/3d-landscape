@@ -1,7 +1,7 @@
 var cols, rows;
 var scl = 20;
-var w = 2500;
-var h = 2080;
+var w = 1500;
+var h = 1080;
 
 var flying = 0;
 
